@@ -1,0 +1,2 @@
+#ditabrakan saja indeksnya secara lawananan reverse and non reverse tabrak dan compare
+#//horay ketemu mainan komputer ini cara taklukanya permainan jalan jangan buat satu jalan tapi banyak jalan di semua algoritma

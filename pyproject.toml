@@ -1,0 +1,35 @@
+[project]
+name = "backendcontrol"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "auth0-fastapi>=1.0.0b10",
+    "bitquery-python>=0.1",
+    "ccip-sdk>=0.1.127",
+    "cloudflare>=5.6.0",
+    "fastapi>=0.141.1",
+    "fastapi-mpp>=0.3.0",
+    "fastmcp>=3.4.7",
+    "google-adk>=2.8.0",
+    "google-adk-community>=0.5.0",
+    "google-adk-extras>=0.3.8",
+    "google-adk-firestore-session>=0.2.0",
+    "google-adk-memorysync>=1.0.0",
+    "google-adk-quercle>=1.0.0",
+    "google-cloud-storage>=3.13.1",
+    "google-genai>=2.20.0",
+    "jax-neuronx>=0.0.0",
+    "moralis>=0.1.49",
+    "neuron-agentic-development>=0.0.1",
+    "pipedream>=2.1.19",
+    "protobuf>=7.36.0",
+    "pyside6>=6.11.2",
+    "strands-google>=0.2.0",
+    "torch>=2.13.0",
+    "uipath-google-adk>=0.1.0",
+    "uvicorn>=0.52.4",
+    "worker>=2018.4.1",
+    "workers>=0.1",
+    "workers-py>=1.17.0",
+    "workers-runtime-sdk>=1.8.1",
+]
